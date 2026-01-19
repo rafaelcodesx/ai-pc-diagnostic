@@ -1,10 +1,10 @@
 # 🤖 AI PC DIAGNOSTIC
 
-Un asistente inteligente de diagnóstico de PC que utiliza Inteligencia Artificial (GPT-3.5) para identificar problemas de hardware y software.
+Un asistente inteligente de diagnóstico de PC que utiliza Inteligencia Artificial (Llama 3) para identificar problemas de hardware y software.
 
 ## Características
-- 🧠 **Cerebro Dual:** Usa un Sistema Experto local + Conexión a OpenAI.
-- 🎨 **Interfaz Moderna:** Construido con CustomTkinter y Programación Orientada Objetos
+- 🧠 **Inteligencia artificial:** Usa Llama 3 para diagnosticar y sugerir posibles soluciones a problemas de hardware y software.
+- 🎨 **Interfaz Moderna:** Construido con CustomTkinter.
 - 🚀 **Diagnóstico en Tiempo Real:** Identifica síntomas y sugiere soluciones.
 
 ## Instalación
